@@ -4,6 +4,9 @@ Visão Geral
 
 Este aplicativo web full-stack permite que os usuários gerenciem sua coleção de livros em formato PDF. Ele oferece uma interface simples para realizar operações CRUD (Criar, Ler, Atualizar e Deletar) em livros.
 
+Pagina do projeto no replit.com
+https://replit.com/@jeffersonwhitne/CRUD-Flask?v=1#main.py
+
 Funcionalidades Implementadas
 
 CRUD de Livros:
